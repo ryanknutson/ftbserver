@@ -35,9 +35,9 @@ language_learning=true
 random_uid=6084597705839920128
 
 //Advancement completed for anonymous statistics
-advancements_creative=
+advancements_creative=firstcontact,summoningwand
 
 //Advancement completed for anonymous statistics
-advancements_survival=
+advancements_survival=firstcontact
 
-validation=346190835
+validation=346190980

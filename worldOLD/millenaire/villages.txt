@@ -1,0 +1,7 @@
+Barera Mahal;160/69/247;indian_palace;indian;
+Barera Gaanv;328/66/402;indian_agricole_hamlet;indian;
+Barera Qila;-40/64/239;indian_fort_hamlet;indian;
+Numazu;200/77/324;trading;japanese;
+Pura Gambhirshah Mahal;357/74/152;indian_palace;indian;
+Pura Gambhirshah Gaanv;192/64/17;indian_agricole_hamlet;indian;
+Pura Gambhirshah Qila;487/79/280;indian_fort_hamlet;indian;

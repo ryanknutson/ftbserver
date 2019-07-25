@@ -410,7 +410,6 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2019-07-23 15:02:37 -0500",
-      "rotten_flesh": "2019-07-24 22:42:21 -0500",
       "carrot": "2019-07-23 15:09:13 -0500"
     },
     "done": false

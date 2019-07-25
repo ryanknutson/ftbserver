@@ -89,7 +89,7 @@
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <yabba:item_barrel>: Stores 64 stacks of one item type
 [INITIALIZATION][SERVER][INFO] Translating item.yabba.upgrade_iron_tier.name to Extra-Dimensional Storage
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <yabba:upgrade_iron_tier>: Increase barrel storage to 1024 stacks
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 847ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 795ms
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Gear with name ct_shaped-1570388522
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Gear with name ct_shaped-1397309258
 [POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Gear with name ct_shaped1447251511

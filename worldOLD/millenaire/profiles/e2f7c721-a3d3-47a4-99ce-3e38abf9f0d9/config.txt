@@ -1,0 +1,9 @@
+player_name=Ryan_Teh_Neko
+donation_mode=false
+village_diplomacy=192/64/17,5
+village_diplomacy=160/69/247,5
+village_diplomacy=-40/64/239,5
+village_diplomacy=328/66/402,5
+village_diplomacy=200/77/324,5
+village_diplomacy=357/74/152,5
+village_diplomacy=487/79/280,5
