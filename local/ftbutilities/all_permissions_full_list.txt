@@ -1,4 +1,4 @@
-9327 nodes in total
+9371 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1888,6 +1888,18 @@ ftbutilities.claims.block.edit.modularforcefieldsystem.projector: OP
 ftbutilities.claims.block.edit.modularforcefieldsystem.security_storage: OP
 ftbutilities.claims.block.edit.modularrouters.item_router: OP
 ftbutilities.claims.block.edit.modularrouters.template_frame: OP
+ftbutilities.claims.block.edit.mystcraft.blockbookbinder: OP
+ftbutilities.claims.block.edit.mystcraft.blockbookreceptacle: OP
+ftbutilities.claims.block.edit.mystcraft.blockbookstand: OP
+ftbutilities.claims.block.edit.mystcraft.blockcrystal: OP
+ftbutilities.claims.block.edit.mystcraft.blockdecay: OP
+ftbutilities.claims.block.edit.mystcraft.blockinkmixer: OP
+ftbutilities.claims.block.edit.mystcraft.blocklectern: OP
+ftbutilities.claims.block.edit.mystcraft.blocklinkmodifier: OP
+ftbutilities.claims.block.edit.mystcraft.blockstarfissure: OP
+ftbutilities.claims.block.edit.mystcraft.fluidblockblackink: OP
+ftbutilities.claims.block.edit.mystcraft.linkportal: OP
+ftbutilities.claims.block.edit.mystcraft.writingdesk: OP
 ftbutilities.claims.block.edit.netherendingores.creative_tab: OP
 ftbutilities.claims.block.edit.netherendingores.ore_end_modded_1: OP
 ftbutilities.claims.block.edit.netherendingores.ore_end_modded_2: OP
@@ -4438,6 +4450,18 @@ ftbutilities.claims.block.interact.modularforcefieldsystem.projector: OP
 ftbutilities.claims.block.interact.modularforcefieldsystem.security_storage: OP
 ftbutilities.claims.block.interact.modularrouters.item_router: OP
 ftbutilities.claims.block.interact.modularrouters.template_frame: OP
+ftbutilities.claims.block.interact.mystcraft.blockbookbinder: OP
+ftbutilities.claims.block.interact.mystcraft.blockbookreceptacle: OP
+ftbutilities.claims.block.interact.mystcraft.blockbookstand: OP
+ftbutilities.claims.block.interact.mystcraft.blockcrystal: OP
+ftbutilities.claims.block.interact.mystcraft.blockdecay: OP
+ftbutilities.claims.block.interact.mystcraft.blockinkmixer: OP
+ftbutilities.claims.block.interact.mystcraft.blocklectern: OP
+ftbutilities.claims.block.interact.mystcraft.blocklinkmodifier: OP
+ftbutilities.claims.block.interact.mystcraft.blockstarfissure: OP
+ftbutilities.claims.block.interact.mystcraft.fluidblockblackink: OP
+ftbutilities.claims.block.interact.mystcraft.linkportal: OP
+ftbutilities.claims.block.interact.mystcraft.writingdesk: OP
 ftbutilities.claims.block.interact.netherendingores.creative_tab: OP
 ftbutilities.claims.block.interact.netherendingores.ore_end_modded_1: OP
 ftbutilities.claims.block.interact.netherendingores.ore_end_modded_2: OP
@@ -7800,6 +7824,26 @@ ftbutilities.claims.item.modularrouters.override_card: ALL
 ftbutilities.claims.item.modularrouters.template_frame: ALL
 ftbutilities.claims.item.modularrouters.upgrade: ALL
 ftbutilities.claims.item.morphtool.tool: ALL
+ftbutilities.claims.item.mystcraft.agebook: ALL
+ftbutilities.claims.item.mystcraft.blockbookbinder: ALL
+ftbutilities.claims.item.mystcraft.blockbookreceptacle: ALL
+ftbutilities.claims.item.mystcraft.blockbookstand: ALL
+ftbutilities.claims.item.mystcraft.blockcrystal: ALL
+ftbutilities.claims.item.mystcraft.blockdecay: ALL
+ftbutilities.claims.item.mystcraft.blockinkmixer: ALL
+ftbutilities.claims.item.mystcraft.blocklectern: ALL
+ftbutilities.claims.item.mystcraft.blocklinkmodifier: ALL
+ftbutilities.claims.item.mystcraft.blockstarfissure: ALL
+ftbutilities.claims.item.mystcraft.booster: ALL
+ftbutilities.claims.item.mystcraft.folder: ALL
+ftbutilities.claims.item.mystcraft.glasses: ALL
+ftbutilities.claims.item.mystcraft.linkbook: ALL
+ftbutilities.claims.item.mystcraft.linkportal: ALL
+ftbutilities.claims.item.mystcraft.page: ALL
+ftbutilities.claims.item.mystcraft.portfolio: ALL
+ftbutilities.claims.item.mystcraft.unlinkedbook: ALL
+ftbutilities.claims.item.mystcraft.vial: ALL
+ftbutilities.claims.item.mystcraft.writingdesk: ALL
 ftbutilities.claims.item.netherendingores.creative_tab: ALL
 ftbutilities.claims.item.netherendingores.ore_end_modded_1: ALL
 ftbutilities.claims.item.netherendingores.ore_end_modded_2: ALL
@@ -9470,6 +9514,16 @@ command.minetogether.chkillall
 command.minetogether.chpregen
 command.minetogether.invite
 command.morpheus.morpheus
+command.mystcraft.myst-agebook
+command.mystcraft.myst-create
+command.mystcraft.myst-dbg
+command.mystcraft.myst-permissions
+command.mystcraft.myst-regenchunk
+command.mystcraft.myst-reprofile
+command.mystcraft.myst-toggleworldinstability
+command.mystcraft.time
+command.mystcraft.toggledownfall
+command.mystcraft.tpx
 command.omlib.omchangeowner
 command.omlib.omdebug
 command.omlib.omshareowner
@@ -9518,9 +9572,7 @@ command.testforblocks
 command.thaumcraft.thaumcraft
 command.thaumictinkerer.dumpenchants
 command.thaumictinkerer.refreshmulti
-command.time
 command.title
-command.toggledownfall
 command.topaddons.tophelmet
 command.tp
 command.traverse.findbiome

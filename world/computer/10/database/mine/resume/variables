@@ -1,0 +1,100 @@
+startDay = 3
+direction = 1
+index = 2
+cache = {
+  1,
+  1,
+  1,
+  4,
+  4,
+  1,
+  1,
+  2,
+  1,
+  1,
+  1,
+  4,
+  4,
+  1,
+  1,
+  6,
+  3,
+  1,
+  1,
+  2,
+  1,
+  6,
+  1,
+  2,
+  1,
+  1,
+  4,
+  4,
+  1,
+  6,
+  1,
+  1,
+  1,
+  1,
+  2,
+  2,
+  4,
+  6,
+  3,
+  1,
+  4,
+  2,
+  5,
+  4,
+  1,
+  2,
+  5,
+  5,
+  1,
+  4,
+  6,
+  2,
+  2,
+  4,
+  5,
+  2,
+  5,
+  3,
+  1,
+}
+startTime = 12.402
+searching = false
+slots = {
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "_",
+  "T",
+}
+torchPositions = {
+  6,
+}
+FuelDemand = 620
+setup = false
+maxSpace = false
+CrosswayAmount = 1
+orientation = {}
+level = 0
+stats = {
+  moves = 217,
+  time = 0,
+  dug = 171,
+  ores = 90,
+}
+TorchDemand = 21

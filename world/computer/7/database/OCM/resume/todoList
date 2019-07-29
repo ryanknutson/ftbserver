@@ -1,0 +1,13 @@
+todoList = {
+  "Freeway()",
+  "while not turtle.forward() do\
+    if turtle.getFuelLevel() == 0 then\
+      Fuel()\
+    elseif dig() == false then\
+      turtle.attack()\
+    end\
+  end",
+  "local endDay = os.day()\
+  local endTime = os.time()\
+  variables.stats[\"time\"] = (endDay-variables.startDay)*24.000+(endTime-variables.startTime)",
+}

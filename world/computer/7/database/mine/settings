@@ -1,0 +1,22 @@
+chestSelect = 3
+lateralTorches = 1
+floor = true
+walls = false
+mainTorches = false
+tunnelspace = 4
+quantity = 10
+ignor = {
+  "minecraft:stone",
+  "minecraft:cobblestone",
+  "minecraft:dirt",
+  "minecraft:lava",
+  "minecraft:flowing_lava",
+  "minecraft:water",
+  "minecraft:flowing_water",
+  "minecraft:torch",
+}
+trash = false
+Autofuel = true
+length = 8
+language = en
+torches = true
